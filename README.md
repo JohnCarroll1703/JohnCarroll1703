@@ -1,4 +1,4 @@
-👋 ### Hi there! I'm Alzhan
+👋 Hi there! I'm Alzhan
 
 I'm a 4th-year Bachelor's student in Computer Science, passionate about coding, problem solving, and building things that make an impact.
 I enjoy working with modern technologies, writing clean and efficient code, and continuously learning new skills.
