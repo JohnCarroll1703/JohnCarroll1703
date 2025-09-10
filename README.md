@@ -5,7 +5,7 @@ I enjoy working with modern technologies, writing clean and efficient code, and 
 
     💻 Languages: Go, Python, Java, C/C++
 
-    🛠️ Tools & Technologies: Git, Docker, PostgreSQL, MongoDB, RabbitMQ, NATS, gRPC, Protobuf
+    🛠️ Tools & Technologies: Git, Docker, PostgreSQL, MongoDB, RabbitMQ, NATS, gRPC, Protobuf, Kafka
 
     🧪 Interests: Backend development, Distributed Systems, Cybersecurity, and Algorithms
 
